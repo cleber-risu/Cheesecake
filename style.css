@@ -21,6 +21,8 @@
 body {
   color: #a54328;
   font-size: 1.6rem;
+
+  background: url('./assets/bg.jpg');
 }
 
 main {
